@@ -12,9 +12,9 @@ Das Tutorial richtet sich an Studierende der Geistes- und Kulturwissenschaften u
 
 ## Aufbau
 
-[01 Einstieg](https://github.com/buchmuseum/datenlabor-tutorial/01 Einstieg.ipynb)
-[03 Zettelkasten](https://github.com/buchmuseum/datenlabor-tutorial/03 Zettelkasten.ipynb)
-[04 Schleifen und Verzweigungen](https://github.com/buchmuseum/datenlabor-tutorial/04 Schleifen und Verzweigungen.ipynb)
+* [01 Einstieg](01_Einstieg.ipynb)
+* [03 Zettelkasten](03_Zettelkasten.ipynb)
+* [04 Schleifen und Verzweigungen](04_Schleifen_und_Verzweigungen.ipynb)
 
 
 ## Über die Autoren
