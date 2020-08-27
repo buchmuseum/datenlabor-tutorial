@@ -7,6 +7,8 @@ Wir führen in das Programmieren mit Python ein und machen mit unterschiedlichen
 
 Das Tutorial richtet sich an Studierende der Geistes- und Kulturwissenschaften und interessierte Mitarbeiter/innen von Kultur- und Gedächtnisinstitutionen. Vorkenntnisse werden nicht vorausgesetzt.
 
+Eine interaktive Version lässt sich dank [Binder](https://mybinder.org/) über diese [Adresse](https://mybinder.org/v2/gh/buchmuseum/datenlabor-tutorial/165f0b6b664ee996c097d3565c7639c0c4726677) erreichen.
+
 **Die Notebooks befinden sich noch in Arbeit!**
 
 
