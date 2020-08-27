@@ -1,0 +1,10 @@
+name: Tutorial
+channels:
+  - defaults
+dependencies:
+  - python=3
+  - jupyterlab
+  - pandas
+  - bs4
+  - plotly
+prefix: /home/dbsm-user/anaconda3/envs/Tutorial
