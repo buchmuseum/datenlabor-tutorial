@@ -1,11 +1,11 @@
 # datenlabor-tutorial
-Python für Kulturwissenschaftler
+Python für Kulturwissenschaftler\*innen
 
 Das Wissen der Kultur- und Geisteswissenschaften steht nicht mehr nur in Büchern, Museumsmagazinen und Archiven, sondern stammt zunehmend auch aus Metadaten, Datenbanken und Datenrepositorien. Für den Umgang damit reichen Word-Kenntnisse nicht aus. Unser praxisnahes Tutorial vermittelt an konkreten Beispielen Grundkenntnisse im Programmieren, die den täglichen Umgang mit Kulturdaten erleichtern.
 
-Wir führen in das Programmieren mit Python ein und machen mit unterschiedlichen Daten-typen vertraut. Leser erwerben so die notwendigen Kenntnisse, Daten nicht nur zu laden, aufzubereiten und zu analysieren, sondern ihre Ergebnisse auch einem Publikum vorzustellen.
+Wir führen in das Programmieren mit Python ein und machen mit unterschiedlichen Daten-typen vertraut. Leser\*innen erwerben so die notwendigen Kenntnisse, Daten nicht nur zu laden, aufzubereiten und zu analysieren, sondern ihre Ergebnisse auch einem Publikum vorzustellen.
 
-Das Tutorial richtet sich an Studierende der Geistes- und Kulturwissenschaften und interessierte Mitarbeiter/innen von Kultur- und Gedächtnisinstitutionen. Vorkenntnisse werden nicht vorausgesetzt.
+Das Tutorial richtet sich an Studierende der Geistes- und Kulturwissenschaften und interessierte Mitarbeiter\*innen von Kultur- und Gedächtnisinstitutionen. Vorkenntnisse werden nicht vorausgesetzt.
 
 Eine interaktive Version lässt sich dank [Binder](https://mybinder.org/) über diese [Adresse](https://mybinder.org/v2/gh/buchmuseum/datenlabor-tutorial/master) erreichen.
 
@@ -21,4 +21,4 @@ Eine interaktive Version lässt sich dank [Binder](https://mybinder.org/) über 
 
 ## Über die Autoren
 
-Das Tutorial geschrieben haben [Ramon Voges](https://www.ramonvoges.de) und [André Wendler](https://www.andrewendler.de/). Beide arbeiten im [Deutschen Buch- und Schriftmuseum der Deutschen Nationalbibliothek](https://www.dnb.de/DE/Ueber-uns/DBSM/dbsm_node.html) und haben bereits zahlreiche Workshops und Fortbildungen zu Python angeboten.
+Das Tutorial geschrieben haben [Ramon Voges](https://www.ramonvoges.de) und [André Wendler](https://twitter.com/awndlr). Beide arbeiten im [Deutschen Buch- und Schriftmuseum der Deutschen Nationalbibliothek](https://www.dnb.de/DE/Ueber-uns/DBSM/dbsm_node.html) und haben bereits zahlreiche Workshops und Fortbildungen zu Python angeboten.
